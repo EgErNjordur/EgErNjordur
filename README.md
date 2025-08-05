@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matt (EgErNjordur)
 
-A former QA automation engineer transitioning into **Machine Learning Engineering**, I specialize in building intelligent systems that blend practical QA experience with cutting-edge AI.
+A former QA automation engineer transitioning into **AI engineering**, I specialize in building intelligent systems that blend practical QA experience with cutting-edge AI.
 
 I'm especially passionate about **Trust & Safety**, **ML testing frameworks**, and **real-world applications** of generative AI. From predicting failures before they happen to creating GPT-driven automation tools — I focus on building things that matter.
 
